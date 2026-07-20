@@ -53,4 +53,4 @@ FD Sleep Tracker does not sell users’ personal information. Data may be proces
 
 For privacy questions or data-deletion assistance, contact:
 
-**furkandevbusiness@gmail.com**
+**brkdrk3838@gmail.com**
