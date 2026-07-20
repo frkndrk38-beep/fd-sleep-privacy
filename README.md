@@ -37,7 +37,7 @@ Because FD Sleep Tracker does not maintain user accounts or store sleep informat
 
 For questions or assistance regarding data deletion, contact:
 
-**furkandevbusiness@gmail.com**
+**brkdrk3838@gmail.com**
 
 ## Advertising and Third-Party Services
 
