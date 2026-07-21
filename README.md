@@ -1,13 +1,14 @@
 # Privacy Policy for FD Sleep Tracker
 
-**Last updated: July 21, 2026**
+Last updated: July 21, 2026
 
-This Privacy Policy applies to the **FD Sleep Tracker** mobile application, package identifier **com.fd.fd_sleep_trackerr**, developed and published on Google Play by **FD OMZ**.
+This Privacy Policy applies to the FD Sleep Tracker mobile application (package identifier: com.fd.fd_sleep_trackerr), developed and published on Google Play by FD OMZ. FD OMZ is operated by Burak Durak.
 
-**Developer / Publisher:** FD OMZ  
-**Application:** FD Sleep Tracker  
-**Package identifier:** com.fd.fd_sleep_trackerr  
-**Contact email:** brkdrk3838@gmail.com
+Developer / Publisher: FD OMZ  
+Legal name: Burak Durak  
+Application: FD Sleep Tracker  
+Package identifier: com.fd.fd_sleep_trackerr  
+Contact email: brkdrk3838@gmail.com  
 
 FD OMZ respects your privacy. This Privacy Policy explains how FD Sleep Tracker accesses, uses, stores, shares, retains, and deletes user data.
 
